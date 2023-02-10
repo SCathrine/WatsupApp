@@ -4,4 +4,4 @@ Module:
 1.	Contact page
 2.	Chat screen
 3.	Status upload
-
+4. view profile photo
