@@ -1,0 +1,7 @@
+WatsUP
+Author: Cathrine
+Module:
+1.	Contact page
+2.	Chat screen
+3.	Status upload
+
