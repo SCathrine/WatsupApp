@@ -5,3 +5,4 @@ Module:
 2.	Chat screen
 3.	Status upload
 4. view profile photo
+5.add attachments(vedio,audio)
